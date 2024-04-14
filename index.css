@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    
+}
+
+.shimmer-card {
+    height: 250px;
+    width: 200px;
+    background-color: #f3ece7;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 8px;
+}

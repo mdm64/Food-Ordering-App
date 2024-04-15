@@ -8,7 +8,8 @@
 5. Integrated real-time Swiggy APIs for backend data, enabling seamless access to a wide range of restaurant and menu information within the food ordering app.
 
 # Demo :
-https://flonnect.com/video/ae2fc9ebac5f-4593-ad9a-b4d1ea314eb5
+https://youtu.be/VAqpCmoJxtw
+
 ## Layout: 
 
   ### Home Page: 

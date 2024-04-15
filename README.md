@@ -1,4 +1,4 @@
-# Namaste React 🚀
+# React Food Ordering App🚀
 
 
 1. Developed a food ordering app utilizing React.js for dynamic user interfaces.

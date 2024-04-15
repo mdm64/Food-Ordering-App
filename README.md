@@ -7,7 +7,7 @@
 4. Implemented Redux Toolkit for streamlined and maintainable Redux logic, optimizing state management in the application.
 5. Integrated real-time Swiggy APIs for backend data, enabling seamless access to a wide range of restaurant and menu information within the food ordering app.
 
-Layout: 
+## Layout: 
 
   Home Page: 
       - Header:
@@ -20,17 +20,17 @@ Layout:
                  - Img
                  - Name of Res, Star Rating, cuisine, Price
 
-Types of routing:
+## Types of routing:
   1. client side
   2. server side
 
-React Hooks:
+## React Hooks:
   1. useState
   2. useEffect
   3. useParams
   4. customHooks
 
-Redux Toolkit: 
+## Redux Toolkit: 
   1. Install @reduxjs/toolkit and react-redux
   2. Build our store
   3. Connect our store to our app

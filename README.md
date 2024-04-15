@@ -9,16 +9,16 @@
 
 ## Layout: 
 
-  Home Page: 
-      - Header:
-          - Logo
-          - Nav Items:  login, about us, cart-button
-      - Body:
-          - Search: search bar, top restaurants filter
-          - RestaurantContainer:
-              - RestaurantCard:
-                 - Img
-                 - Name of Res, Star Rating, cuisine, Price
+  ### Home Page: 
+      #### - Header:
+          ##### - Logo
+          ##### - Nav Items:  login, about us, cart-button
+      #### - Body:
+          ##### - Search: search bar, top restaurants filter
+          ##### - RestaurantContainer:
+              ###### - RestaurantCard:
+                 ######- - Img
+                 ######- - Name of Res, Star Rating, cuisine, Price
 
 ## Types of routing:
   1. client side
